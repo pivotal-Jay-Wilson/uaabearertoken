@@ -1,0 +1,8 @@
+applications:
+- name: uaabearertoken
+  routes:
+  - route: uaabearertoken.cfapps-01.slot-21.pez.vmware.com
+  disk_quota: 512M
+  instances: 1
+  memory: 512M
+ 
